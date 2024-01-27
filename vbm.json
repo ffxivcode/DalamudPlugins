@@ -3,7 +3,7 @@
   "Author": "veyn",
   "Name": "Boss Mod",
   "InternalName": "BossMod",
-  "AssemblyVersion": "0.0.0.0",
+  "AssemblyVersion": "0.0.0.133",
   "Punchline": "Don't fail at raid mechanics anymore",
   "Description": "A bunch of utilities to simplify bosses.",
   "ApplicableVersion": "any",
