@@ -1,23 +1,19 @@
 {
-    "Author": "veyn-ffxivcode",
-    "Name": "Boss Mod",
-    "Punchline": "Don't fail at raid mechanics anymore",
-    "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-    "Tags": [],
-    "InternalName": "BossMod",
-    "RepoUrl": "https://github.com/ffxivcode/ffxiv_bossmod",
-    "DownloadCount": 41588,
-    "LastUpdate": 1706213218663,
-    "DownloadLinkInstall": "https://github.com/ffxivcode/ffxiv_bossmod/releases/download/release/Bossmod-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ffxivcode/ffxiv_bossmod/releases/download/release/Bossmod-latest.zipp",
-    "AssemblyVersion": "0.0.0.133",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-    "ImageUrls": [
-        "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-        "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-        "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-    ]
+  "Author": "veyn",
+  "Name": "Boss Mod",
+  "InternalName": "BossMod",
+  "AssemblyVersion": "0.0.0.0",
+  "Punchline": "Don't fail at raid mechanics anymore",
+  "Description": "A bunch of utilities to simplify bosses.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ffxivcode/ffxiv_bossmod",
+  "DalamudApiLevel": 9,
+  "DownloadLinkInstall": "https://github.com/ffxivcode/DalamudPlugins/blob/main/Bossmod-latest.zip",
+  "DownloadLinkUpdate": "https://github.com/ffxivcode/DalamudPlugins/blob/main/Bossmod-latest.zip",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
+    "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
+    "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png"
 }
