@@ -1,4 +1,5 @@
-{
+[
+  {
   "Author": "veyn",
   "Name": "Boss Mod",
   "InternalName": "BossMod",
@@ -16,4 +17,5 @@
     "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png"
-}
+  }
+]
