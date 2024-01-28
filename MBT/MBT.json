@@ -9,13 +9,13 @@
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 9,
-  "DownloadLinkInstall": "https://github.com/ffxivcode/ffxiv_bossmod/releases/download/release/Bossmod-latest.zip",
-  "DownloadLinkUpdate": "https://github.com/ffxivcode/ffxiv_bossmod/releases/download/release/Bossmod-latest.zip",
+  "DownloadLinkInstall": "https://github.com/ffxivcode/DalamudPlugins/blob/main/MBT/MBT-latest.zip",
+  "DownloadLinkUpdate": "https://github.com/ffxivcode/DalamudPlugins/blob/main/MBT/MBT-latest.zip",
   "ImageUrls": [
-    "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT1.png",
-    "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT2.png",
-    "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT3.png"
+    "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT/MBT1.png",
+    "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT/MBT2.png",
+    "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT/MBT3.png"
   ],
-  "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png"
+  "IconUrl": https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT/MBTi.png"
   }
 ]
