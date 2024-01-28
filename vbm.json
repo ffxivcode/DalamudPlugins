@@ -9,8 +9,8 @@
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ffxivcode/ffxiv_bossmod",
   "DalamudApiLevel": 9,
-  "DownloadLinkInstall": "https://github.com/ffxivcode/DalamudPlugins/blob/main/Bossmod-latest.zip",
-  "DownloadLinkUpdate": "https://github.com/ffxivcode/DalamudPlugins/blob/main/Bossmod-latest.zip",
+  "DownloadLinkInstall": "https://github.com/ffxivcode/ffxiv_bossmod/releases/download/release/Bossmod-latest.zip",
+  "DownloadLinkUpdate": "https://github.com/ffxivcode/ffxiv_bossmod/releases/download/release/Bossmod-latest.zip",
   "ImageUrls": [
     "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
     "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
