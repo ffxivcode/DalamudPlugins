@@ -9,8 +9,8 @@
     "ApplicableVersion": "any",
     "RepoUrl": "",
     "DalamudApiLevel": 9,
-    "DownloadLinkInstall": "https://github.com/ffxivcode/DalamudPlugins/blob/main/AutoDuty/AutoDuty-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ffxivcode/DalamudPlugins/blob/main/AutoDuty/AutoDuty-latest.zip",
+    "DownloadLinkInstall": "https://github.com/ffxivcode/DalamudPlugins/raw/main/AutoDuty/AutoDuty-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ffxivcode/DalamudPlugins/raw/main/AutoDuty/AutoDuty-latest.zip",
     "ImageUrls": [
       "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoDuty/AutoDuty1.png",
       "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoDuty/AutoDuty2.png"
