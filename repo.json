@@ -15,7 +15,25 @@
       "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoDuty/AutoDuty1.png",
       "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoDuty/AutoDuty2.png"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT/AutoDutyi.png"
+    "IconUrl": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoDuty/AutoDutyi.png"
+  },
+  {
+  "Author": "Herculezz",
+    "Name": "AutoGather",
+    "InternalName": "AutoGather",
+    "AssemblyVersion": "0.0.0.1",
+    "Punchline": "AutoGather",
+    "Description": "A plugin to gather resources",
+    "ApplicableVersion": "any",
+    "RepoUrl": "",
+    "DalamudApiLevel": 9,
+    "DownloadLinkInstall": "https://github.com/ffxivcode/DalamudPlugins/raw/main/AutoGather/AutoGather-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ffxivcode/DalamudPlugins/raw/main/AutoGather/AutoGather-latest.zip",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoGather/AutoGather1.png",
+      "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoGather/AutoGather2.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoGather/AutoGatheri.png"
   },
   {
   "Author": "Herculezz",
