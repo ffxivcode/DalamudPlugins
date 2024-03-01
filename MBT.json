@@ -3,7 +3,7 @@
   "Author": "Herculezz",
   "Name": "MBT",
   "InternalName": "MBT",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.6",
   "Punchline": "Multi-boxer tool kit",
   "Description": "A bunch of utilities to simplify multi-boxing",
   "ApplicableVersion": "any",
