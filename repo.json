@@ -16,5 +16,23 @@
       "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoDuty/AutoDuty2.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoDuty/AutoDutyi.png"
+  },
+  {
+  "Author": "Herculezz",
+  "Name": "MBT",
+  "InternalName": "MBT",
+  "AssemblyVersion": "0.0.0.9",
+  "Punchline": "Multi-boxer tool kit",
+  "Description": "A bunch of utilities to simplify multi-boxing",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 9,
+  "DownloadLinkInstall": "https://github.com/ffxivcode/DalamudPlugins/raw/main/MBT/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/ffxivcode/DalamudPlugins/raw/main/MBT/latest.zip",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT/MBT1.png",
+    "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT/MBT2.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/MBT/MBTi.png"
   }
 ]
