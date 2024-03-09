@@ -3,6 +3,11 @@ Dalamud Plugin Repo
 AutoDuty:
 
 Run's Duty Support or Trust Dungeons for you (Requires vnavmesh and BossMod)
+Current Paths:
+Sastasha
+Holminster Switch
+
+To Contribute Path Files just create a pull request or issue either works
 
 MBT:
 
