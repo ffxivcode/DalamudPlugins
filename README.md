@@ -10,6 +10,12 @@ Sastasha
 
 Holminster Switch
 
+The Sirensong Sea
+
+Bardam's Mettle
+
+Doma Castle
+
 To Contribute Path Files just create a pull request or issue either works
 
 MBT:
