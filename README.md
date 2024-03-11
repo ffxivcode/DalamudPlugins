@@ -2,7 +2,7 @@ Dalamud Plugin Repo
 
 AutoDuty:
 
-Run's Duty Support or Trust Dungeons for you (Requires vnavmesh and BossMod)
+Run's Duty Support or Trust Dungeons for you (Requires vnavmesh, BossMod and MBT)
 
 Current Paths:
 
