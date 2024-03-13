@@ -22,7 +22,7 @@ MBT:
 
 Multi Boxer Toolkit
 
-Smart Auto Follow, Movement Hacks, ETC
+Smart Auto Follow, ETC
 
 Just add the following to Settings -> Experimental -> Custom Plugin Repositories
 
