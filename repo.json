@@ -5,7 +5,7 @@
     "InternalName": "AutoDuty",
     "AssemblyVersion": "0.0.0.26",
     "Punchline": "AutoDuty",
-    "Description": "A plugin to run dungeons for you with Trust or Duty Support, Requires BossMod and vnavmesh",
+    "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod and vnavmesh",
     "ApplicableVersion": "any",
     "RepoUrl": "",
     "DalamudApiLevel": 9,
