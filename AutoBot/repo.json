@@ -9,8 +9,8 @@
     "ApplicableVersion": "any",
     "RepoUrl": "",
     "DalamudApiLevel": 9,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/AutoBot/AutoBot/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/AutoBot/AutoBot/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/AutoBot/AutoBot/AutoBot.png"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoBot/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoBot/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/AutoBot/AutoBot.png"
     }
 ]
