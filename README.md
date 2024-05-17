@@ -1,15 +1,5 @@
 # Dalamud Plugin Repo
 
-## AutoDuty:
-
-Run's Dungeons for you with Trust, Duty Support, Squadrons and Regular, (Requires vnavmesh (Movement and Pathfinding), BossMod (Boss Mechanics) and Rotation Solver (Recommend Reborn Fork))
-
-Current Paths:
-
-(Check AutoDuty/Paths folder)
-
-To Contribute Path Files just create a pull request or issue either works
-
 ## MBT:
 
 Multi Boxer Toolkit
@@ -22,7 +12,7 @@ Just add the following to Settings -> Experimental -> Custom Plugin Repositories
 
 Currently checks marketboard listing in user configurable sell run cycles. Optionally teleports to your Free company Estate or Limsa Lominsa then runs to the summoning bell. AutoQuest in near future
 
-### AutoDuty and MBT
+### MBT
 https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/repo.json
 
 ### AutoMarket:
