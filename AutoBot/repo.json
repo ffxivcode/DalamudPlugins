@@ -1,9 +1,9 @@
 [
  {
     "Author": "cookedlizard",
-    "Name": "AutoBot",
-    "InternalName": "AutoBot",
-    "AssemblyVersion": "0.0.0.2",
+    "Name": "AutoMarket",
+    "InternalName": "AutoMarket",
+    "AssemblyVersion": "0.0.0.3",
     "Punchline": "Auto Everything",
     "Description": "Currently just a Marketboard Tool",
     "ApplicableVersion": "any",
