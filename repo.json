@@ -21,7 +21,7 @@
     "Author": "cookedlizard",
     "Name": "AutoMarket",
     "InternalName": "AutoBot",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.4",
     "Punchline": "AutoMarket",
     "Description": "Currently just a Marketboard Tool",
     "ApplicableVersion": "any",
